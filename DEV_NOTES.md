@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Removed unused variable declarations
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-22
+- Reviewed open issues, added labels
+- Added healthcheck endpoint stub
